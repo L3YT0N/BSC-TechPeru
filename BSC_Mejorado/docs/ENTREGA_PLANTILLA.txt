@@ -1,0 +1,9 @@
+ENTREGA: BALANCED SCORECARD - TECHPERU SAC
+
+Nombre completo: [COMPLETAR CON TU NOMBRE Y APELLIDOS]
+Repositorio GitHub: [PEGAR EL ENLACE REAL DESPUÉS DE SUBIR EL PROYECTO]
+
+Contenido: Excel mejorado y prototipo BSC con frontend, backend y base SQLite.
+Instrucciones de ejecución: README.md del repositorio.
+
+PENDIENTE: esta plantilla debe completarse antes de enviarla al docente.

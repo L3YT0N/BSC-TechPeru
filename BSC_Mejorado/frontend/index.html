@@ -1,0 +1,21 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>TechPeru | Cuadro de mando</title>
+  <link rel="stylesheet" href="styles.css"><script src="app.js" defer></script>
+</head>
+<body>
+<section id="login" class="login-layout">
+ <div class="login-story"><div class="wordmark">T<span>TECHPERU</span></div><p class="eyebrow">CUADRO DE MANDO INTEGRAL</p><h1>Una estrategia.<br>Cuatro perspectivas.</h1><p class="lead">Transforma los resultados de tu equipo en decisiones concretas.</p><div class="login-perspectives"><span>01 / Financiera</span><span>02 / Clientes</span><span>03 / Procesos internos</span><span>04 / Aprendizaje</span></div><small>Proyecto académico · Datos de ejemplo · 2025</small></div>
+ <div class="login-form"><p class="eyebrow">TU ESPACIO DE TRABAJO</p><h2>Bienvenido a TechPeru</h2><p>Ingresa con el usuario y la contraseña de tu organización.</p><form id="loginForm"><label>Correo<input name="email" type="email" autocomplete="username" value="admin@techperu.local" required></label><label>Contraseña<input name="password" type="password" autocomplete="current-password" required></label><p id="loginError" role="alert"></p><button class="btn primary" type="submit">Ingresar al cuadro de mando →</button></form><div class="note">En la primera ejecución, la contraseña inicial aparece en la ventana donde se inicia el sistema.</div></div>
+</section>
+<div id="workspace" class="shell" hidden>
+ <aside id="sidebar"><div class="wordmark">T<span>TECHPERU<small>Gestión estratégica</small></span></div><p class="nav-label">ESPACIO DE TRABAJO</p><nav aria-label="Navegación principal">
+  <button data-page="dashboard">◉ <span>Resumen ejecutivo</span></button><button data-page="mapa">◇ <span>Mapa estratégico</span></button><button data-page="objetivos">◎ <span>Objetivos</span></button><button data-page="kpis">▥ <span>Indicadores</span></button><button data-page="mediciones">↗ <span>Registrar resultados</span></button><button data-page="iniciativas">▧ <span>Iniciativas</span></button><p class="nav-label">ANÁLISIS Y CONTROL</p><button data-page="reportes">▤ <span>Reportes y Excel</span></button><button data-page="administracion" id="adminNav">⚙ <span>Administración</span></button><button data-page="ayuda">? <span>Cómo usar el BSC</span></button>
+ </nav><div class="side-bottom"><span class="avatar" id="avatar">TP</span><div><strong id="userName"></strong><small id="userRole"></small></div><button data-action="logout" class="icon-btn" aria-label="Cerrar sesión">↪</button></div></aside>
+ <div class="content"><header class="topbar"><button class="icon-btn mobile-menu" data-action="menu" aria-label="Abrir menú">☰</button><div><span class="muted">TechPeru SAC / </span><strong id="breadcrumb">Resumen ejecutivo</strong></div><div class="header-actions"><span id="saveStatus" role="status">Datos actualizados</span><label class="year">Año <select id="year"><option>2025</option><option>2026</option></select></label><button class="btn small" data-action="refresh">Actualizar</button></div></header><main id="main" tabindex="-1"></main><footer>TechPeru SAC · BSC académico <span>Resultados de ejemplo; actualiza los datos antes de usarlos.</span></footer></div>
+</div>
+<dialog id="dialog"><form id="entityForm"><div class="modal-heading"><div><p class="eyebrow" id="modalType">GESTIÓN DEL BSC</p><h2 id="modalTitle"></h2></div><button class="icon-btn" type="button" data-action="close" aria-label="Cerrar formulario">×</button></div><div id="fields" class="form-grid"></div><p id="formError" class="error" role="alert"></p><div class="modal-footer"><button class="btn" type="button" data-action="close">Cancelar</button><button class="btn primary" type="submit" id="submitEntity">Guardar cambios</button></div></form></dialog>
+<div id="toasts" role="status" aria-live="polite"></div>
+</body></html>

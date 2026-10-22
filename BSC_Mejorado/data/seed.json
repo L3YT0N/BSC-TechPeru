@@ -1,0 +1,1110 @@
+{
+  "company": "TechPeru SAC",
+  "year": "2025",
+  "objectives": [
+    {
+      "id": "OBJ-F1",
+      "name": "Incrementar la Rentabilidad",
+      "perspective": "financiera",
+      "description": "Objetivo del BSC académico de TechPeru SAC.",
+      "owner": "Luis Quispe",
+      "priority": "Alta",
+      "status": "Activo"
+    },
+    {
+      "id": "OBJ-F2",
+      "name": "Acelerar el Crecimiento de Ingresos",
+      "perspective": "financiera",
+      "description": "Objetivo del BSC académico de TechPeru SAC.",
+      "owner": "Luis Quispe",
+      "priority": "Alta",
+      "status": "Activo"
+    },
+    {
+      "id": "OBJ-F3",
+      "name": "Optimizar la Estructura de Costos",
+      "perspective": "financiera",
+      "description": "Objetivo del BSC académico de TechPeru SAC.",
+      "owner": "Luis Quispe",
+      "priority": "Alta",
+      "status": "Activo"
+    },
+    {
+      "id": "OBJ-C1",
+      "name": "Maximizar la Satisfacción del Cliente",
+      "perspective": "clientes",
+      "description": "Objetivo del BSC académico de TechPeru SAC.",
+      "owner": "Carlos Ruiz",
+      "priority": "Alta",
+      "status": "Activo"
+    },
+    {
+      "id": "OBJ-C2",
+      "name": "Aumentar la Retención y Fidelización",
+      "perspective": "clientes",
+      "description": "Objetivo del BSC académico de TechPeru SAC.",
+      "owner": "Carlos Ruiz",
+      "priority": "Alta",
+      "status": "Activo"
+    },
+    {
+      "id": "OBJ-C3",
+      "name": "Expandir la Base de Clientes",
+      "perspective": "clientes",
+      "description": "Objetivo del BSC académico de TechPeru SAC.",
+      "owner": "Carlos Ruiz",
+      "priority": "Alta",
+      "status": "Activo"
+    },
+    {
+      "id": "OBJ-P1",
+      "name": "Excelencia en Operaciones y Calidad",
+      "perspective": "procesos",
+      "description": "Objetivo del BSC académico de TechPeru SAC.",
+      "owner": "María Torres",
+      "priority": "Alta",
+      "status": "Activo"
+    },
+    {
+      "id": "OBJ-P2",
+      "name": "Innovación y Desarrollo de Producto",
+      "perspective": "procesos",
+      "description": "Objetivo del BSC académico de TechPeru SAC.",
+      "owner": "María Torres",
+      "priority": "Alta",
+      "status": "Activo"
+    },
+    {
+      "id": "OBJ-P3",
+      "name": "Gestión Eficiente de Proveedores",
+      "perspective": "procesos",
+      "description": "Objetivo del BSC académico de TechPeru SAC.",
+      "owner": "María Torres",
+      "priority": "Alta",
+      "status": "Activo"
+    },
+    {
+      "id": "OBJ-A1",
+      "name": "Desarrollar el Capital Humano",
+      "perspective": "aprendizaje",
+      "description": "Objetivo del BSC académico de TechPeru SAC.",
+      "owner": "Rosa Medina",
+      "priority": "Alta",
+      "status": "Activo"
+    },
+    {
+      "id": "OBJ-A2",
+      "name": "Fortalecer la Cultura y el Clima",
+      "perspective": "aprendizaje",
+      "description": "Objetivo del BSC académico de TechPeru SAC.",
+      "owner": "Rosa Medina",
+      "priority": "Alta",
+      "status": "Activo"
+    },
+    {
+      "id": "OBJ-A3",
+      "name": "Impulsar la Innovación Organizacional",
+      "perspective": "aprendizaje",
+      "description": "Objetivo del BSC académico de TechPeru SAC.",
+      "owner": "Rosa Medina",
+      "priority": "Alta",
+      "status": "Activo"
+    }
+  ],
+  "kpis": [
+    {
+      "id": "KPI-01",
+      "name": "ROE – Retorno sobre Patrimonio",
+      "objectiveId": "OBJ-F1",
+      "perspective": "financiera",
+      "unit": "%",
+      "target": 18.0,
+      "current": 16.5,
+      "direction": "mayor",
+      "owner": "Luis Quispe",
+      "area": "Finanzas",
+      "frequency": "Anual",
+      "description": "Revisar estructura de capital y uso del patrimonio.",
+      "formula": "Resultado / meta × 100",
+      "sourceRow": 4,
+      "measurements": [
+        {
+          "id": "M-KPI-01-2025-12",
+          "period": "2025-12",
+          "date": "2025-12-31",
+          "value": 16.5,
+          "responsible": "Luis Quispe",
+          "notes": "Valor del Excel original. Datos académicos de ejemplo."
+        }
+      ]
+    },
+    {
+      "id": "KPI-02",
+      "name": "Margen EBITDA",
+      "objectiveId": "OBJ-F1",
+      "perspective": "financiera",
+      "unit": "%",
+      "target": 22.0,
+      "current": 19.8,
+      "direction": "mayor",
+      "owner": "Luis Quispe",
+      "area": "Finanzas",
+      "frequency": "Anual",
+      "description": "Reducir gastos operativos que comprimen el margen.",
+      "formula": "Resultado / meta × 100",
+      "sourceRow": 5,
+      "measurements": [
+        {
+          "id": "M-KPI-02-2025-12",
+          "period": "2025-12",
+          "date": "2025-12-31",
+          "value": 19.8,
+          "responsible": "Luis Quispe",
+          "notes": "Valor del Excel original. Datos académicos de ejemplo."
+        }
+      ]
+    },
+    {
+      "id": "KPI-03",
+      "name": "Utilidad Neta Anual",
+      "objectiveId": "OBJ-F1",
+      "perspective": "financiera",
+      "unit": "S/ MM",
+      "target": 2.1,
+      "current": 1.87,
+      "direction": "mayor",
+      "owner": "Luis Quispe",
+      "area": "Finanzas",
+      "frequency": "Anual",
+      "description": "Mejorar márgenes y volumen de ventas.",
+      "formula": "Resultado / meta × 100",
+      "sourceRow": 6,
+      "measurements": [
+        {
+          "id": "M-KPI-03-2025-12",
+          "period": "2025-12",
+          "date": "2025-12-31",
+          "value": 1.87,
+          "responsible": "Luis Quispe",
+          "notes": "Valor del Excel original. Datos académicos de ejemplo."
+        }
+      ]
+    },
+    {
+      "id": "KPI-04",
+      "name": "Crecimiento de Ventas YoY",
+      "objectiveId": "OBJ-F2",
+      "perspective": "financiera",
+      "unit": "%",
+      "target": 15.0,
+      "current": 12.3,
+      "direction": "mayor",
+      "owner": "Luis Quispe",
+      "area": "Finanzas",
+      "frequency": "Anual",
+      "description": "Fortalecer las campañas comerciales y la venta adicional.",
+      "formula": "Resultado / meta × 100",
+      "sourceRow": 7,
+      "measurements": [
+        {
+          "id": "M-KPI-04-2025-12",
+          "period": "2025-12",
+          "date": "2025-12-31",
+          "value": 12.3,
+          "responsible": "Luis Quispe",
+          "notes": "Valor del Excel original. Datos académicos de ejemplo."
+        }
+      ]
+    },
+    {
+      "id": "KPI-05",
+      "name": "Ingresos Totales Anuales",
+      "objectiveId": "OBJ-F2",
+      "perspective": "financiera",
+      "unit": "S/ MM",
+      "target": 8.5,
+      "current": 7.9,
+      "direction": "mayor",
+      "owner": "Luis Quispe",
+      "area": "Finanzas",
+      "frequency": "Anual",
+      "description": "Revisar precios y combinación de productos.",
+      "formula": "Resultado / meta × 100",
+      "sourceRow": 8,
+      "measurements": [
+        {
+          "id": "M-KPI-05-2025-12",
+          "period": "2025-12",
+          "date": "2025-12-31",
+          "value": 7.9,
+          "responsible": "Luis Quispe",
+          "notes": "Valor del Excel original. Datos académicos de ejemplo."
+        }
+      ]
+    },
+    {
+      "id": "KPI-06",
+      "name": "Ingresos por Nuevos Productos",
+      "objectiveId": "OBJ-F2",
+      "perspective": "financiera",
+      "unit": "%",
+      "target": 20.0,
+      "current": 15.6,
+      "direction": "mayor",
+      "owner": "Luis Quispe",
+      "area": "Finanzas",
+      "frequency": "Anual",
+      "description": "Acelerar lanzamientos y venta de nuevos productos.",
+      "formula": "Resultado / meta × 100",
+      "sourceRow": 9,
+      "measurements": [
+        {
+          "id": "M-KPI-06-2025-12",
+          "period": "2025-12",
+          "date": "2025-12-31",
+          "value": 15.6,
+          "responsible": "Luis Quispe",
+          "notes": "Valor del Excel original. Datos académicos de ejemplo."
+        }
+      ]
+    },
+    {
+      "id": "KPI-07",
+      "name": "Ratio Costo Operativo / Ingreso",
+      "objectiveId": "OBJ-F3",
+      "perspective": "financiera",
+      "unit": "%",
+      "target": 55.0,
+      "current": 58.2,
+      "direction": "menor",
+      "owner": "Luis Quispe",
+      "area": "Finanzas",
+      "frequency": "Anual",
+      "description": "Automatizar tareas para reducir costos operativos.",
+      "formula": "Meta / resultado × 100",
+      "sourceRow": 10,
+      "measurements": [
+        {
+          "id": "M-KPI-07-2025-12",
+          "period": "2025-12",
+          "date": "2025-12-31",
+          "value": 58.2,
+          "responsible": "Luis Quispe",
+          "notes": "Valor del Excel original. Datos académicos de ejemplo."
+        }
+      ]
+    },
+    {
+      "id": "KPI-08",
+      "name": "Costo de Adquisición de Cliente (CAC)",
+      "objectiveId": "OBJ-F3",
+      "perspective": "financiera",
+      "unit": "S/",
+      "target": 350.0,
+      "current": 412.0,
+      "direction": "menor",
+      "owner": "Luis Quispe",
+      "area": "Finanzas",
+      "frequency": "Anual",
+      "description": "Optimizar los canales de adquisición digital.",
+      "formula": "Meta / resultado × 100",
+      "sourceRow": 11,
+      "measurements": [
+        {
+          "id": "M-KPI-08-2025-12",
+          "period": "2025-12",
+          "date": "2025-12-31",
+          "value": 412.0,
+          "responsible": "Luis Quispe",
+          "notes": "Valor del Excel original. Datos académicos de ejemplo."
+        }
+      ]
+    },
+    {
+      "id": "KPI-09",
+      "name": "Retorno sobre Activos (ROA)",
+      "objectiveId": "OBJ-F3",
+      "perspective": "financiera",
+      "unit": "%",
+      "target": 9.0,
+      "current": 7.8,
+      "direction": "mayor",
+      "owner": "Luis Quispe",
+      "area": "Finanzas",
+      "frequency": "Anual",
+      "description": "Mejorar el uso productivo de los activos.",
+      "formula": "Resultado / meta × 100",
+      "sourceRow": 12,
+      "measurements": [
+        {
+          "id": "M-KPI-09-2025-12",
+          "period": "2025-12",
+          "date": "2025-12-31",
+          "value": 7.8,
+          "responsible": "Luis Quispe",
+          "notes": "Valor del Excel original. Datos académicos de ejemplo."
+        }
+      ]
+    },
+    {
+      "id": "KPI-10",
+      "name": "NPS – Net Promoter Score",
+      "objectiveId": "OBJ-C1",
+      "perspective": "clientes",
+      "unit": "pts",
+      "target": 65.0,
+      "current": 58.0,
+      "direction": "mayor",
+      "owner": "Carlos Ruiz",
+      "area": "Comercial",
+      "frequency": "Anual",
+      "description": "Implementar seguimiento posventa a 30, 60 y 90 días.",
+      "formula": "Resultado / meta × 100",
+      "sourceRow": 14,
+      "measurements": [
+        {
+          "id": "M-KPI-10-2025-12",
+          "period": "2025-12",
+          "date": "2025-12-31",
+          "value": 58.0,
+          "responsible": "Carlos Ruiz",
+          "notes": "Valor del Excel original. Datos académicos de ejemplo."
+        }
+      ]
+    },
+    {
+      "id": "KPI-11",
+      "name": "CSAT – Satisfacción post-venta",
+      "objectiveId": "OBJ-C1",
+      "perspective": "clientes",
+      "unit": "%",
+      "target": 88.0,
+      "current": 84.0,
+      "direction": "mayor",
+      "owner": "Carlos Ruiz",
+      "area": "Comercial",
+      "frequency": "Anual",
+      "description": "Reforzar la incorporación del cliente y el soporte técnico.",
+      "formula": "Resultado / meta × 100",
+      "sourceRow": 15,
+      "measurements": [
+        {
+          "id": "M-KPI-11-2025-12",
+          "period": "2025-12",
+          "date": "2025-12-31",
+          "value": 84.0,
+          "responsible": "Carlos Ruiz",
+          "notes": "Valor del Excel original. Datos académicos de ejemplo."
+        }
+      ]
+    },
+    {
+      "id": "KPI-12",
+      "name": "Tiempo de Resolución de Quejas",
+      "objectiveId": "OBJ-C1",
+      "perspective": "clientes",
+      "unit": "días",
+      "target": 2.0,
+      "current": 2.8,
+      "direction": "menor",
+      "owner": "Carlos Ruiz",
+      "area": "Comercial",
+      "frequency": "Anual",
+      "description": "Asignar soporte especializado para resolver quejas.",
+      "formula": "Meta / resultado × 100",
+      "sourceRow": 16,
+      "measurements": [
+        {
+          "id": "M-KPI-12-2025-12",
+          "period": "2025-12",
+          "date": "2025-12-31",
+          "value": 2.8,
+          "responsible": "Carlos Ruiz",
+          "notes": "Valor del Excel original. Datos académicos de ejemplo."
+        }
+      ]
+    },
+    {
+      "id": "KPI-13",
+      "name": "Tasa de Retención de Clientes",
+      "objectiveId": "OBJ-C2",
+      "perspective": "clientes",
+      "unit": "%",
+      "target": 90.0,
+      "current": 87.0,
+      "direction": "mayor",
+      "owner": "Carlos Ruiz",
+      "area": "Comercial",
+      "frequency": "Anual",
+      "description": "Fortalecer el programa de fidelización de clientes.",
+      "formula": "Resultado / meta × 100",
+      "sourceRow": 17,
+      "measurements": [
+        {
+          "id": "M-KPI-13-2025-12",
+          "period": "2025-12",
+          "date": "2025-12-31",
+          "value": 87.0,
+          "responsible": "Carlos Ruiz",
+          "notes": "Valor del Excel original. Datos académicos de ejemplo."
+        }
+      ]
+    },
+    {
+      "id": "KPI-14",
+      "name": "Tasa de Recompra (Repeat Purchase)",
+      "objectiveId": "OBJ-C2",
+      "perspective": "clientes",
+      "unit": "%",
+      "target": 55.0,
+      "current": 49.0,
+      "direction": "mayor",
+      "owner": "Carlos Ruiz",
+      "area": "Comercial",
+      "frequency": "Anual",
+      "description": "Realizar campañas de recuperación de clientes.",
+      "formula": "Resultado / meta × 100",
+      "sourceRow": 18,
+      "measurements": [
+        {
+          "id": "M-KPI-14-2025-12",
+          "period": "2025-12",
+          "date": "2025-12-31",
+          "value": 49.0,
+          "responsible": "Carlos Ruiz",
+          "notes": "Valor del Excel original. Datos académicos de ejemplo."
+        }
+      ]
+    },
+    {
+      "id": "KPI-15",
+      "name": "Churn Rate (Tasa de Abandono)",
+      "objectiveId": "OBJ-C2",
+      "perspective": "clientes",
+      "unit": "%",
+      "target": 5.0,
+      "current": 7.2,
+      "direction": "menor",
+      "owner": "Carlos Ruiz",
+      "area": "Comercial",
+      "frequency": "Anual",
+      "description": "Investigar las causas de abandono y dar seguimiento.",
+      "formula": "Meta / resultado × 100",
+      "sourceRow": 19,
+      "measurements": [
+        {
+          "id": "M-KPI-15-2025-12",
+          "period": "2025-12",
+          "date": "2025-12-31",
+          "value": 7.2,
+          "responsible": "Carlos Ruiz",
+          "notes": "Valor del Excel original. Datos académicos de ejemplo."
+        }
+      ]
+    },
+    {
+      "id": "KPI-16",
+      "name": "Nuevos Clientes Adquiridos",
+      "objectiveId": "OBJ-C3",
+      "perspective": "clientes",
+      "unit": "#",
+      "target": 120.0,
+      "current": 105.0,
+      "direction": "mayor",
+      "owner": "Carlos Ruiz",
+      "area": "Comercial",
+      "frequency": "Anual",
+      "description": "Ampliar la captación comercial en regiones.",
+      "formula": "Resultado / meta × 100",
+      "sourceRow": 20,
+      "measurements": [
+        {
+          "id": "M-KPI-16-2025-12",
+          "period": "2025-12",
+          "date": "2025-12-31",
+          "value": 105.0,
+          "responsible": "Carlos Ruiz",
+          "notes": "Valor del Excel original. Datos académicos de ejemplo."
+        }
+      ]
+    },
+    {
+      "id": "KPI-17",
+      "name": "Cuota de Mercado",
+      "objectiveId": "OBJ-C3",
+      "perspective": "clientes",
+      "unit": "%",
+      "target": 8.5,
+      "current": 7.8,
+      "direction": "mayor",
+      "owner": "Carlos Ruiz",
+      "area": "Comercial",
+      "frequency": "Anual",
+      "description": "Ejecutar campañas en los mercados objetivo.",
+      "formula": "Resultado / meta × 100",
+      "sourceRow": 21,
+      "measurements": [
+        {
+          "id": "M-KPI-17-2025-12",
+          "period": "2025-12",
+          "date": "2025-12-31",
+          "value": 7.8,
+          "responsible": "Carlos Ruiz",
+          "notes": "Valor del Excel original. Datos académicos de ejemplo."
+        }
+      ]
+    },
+    {
+      "id": "KPI-18",
+      "name": "Costo por Lead Calificado",
+      "objectiveId": "OBJ-C3",
+      "perspective": "clientes",
+      "unit": "S/",
+      "target": 180.0,
+      "current": 215.0,
+      "direction": "menor",
+      "owner": "Carlos Ruiz",
+      "area": "Comercial",
+      "frequency": "Anual",
+      "description": "Optimizar campañas y calificación de prospectos.",
+      "formula": "Meta / resultado × 100",
+      "sourceRow": 22,
+      "measurements": [
+        {
+          "id": "M-KPI-18-2025-12",
+          "period": "2025-12",
+          "date": "2025-12-31",
+          "value": 215.0,
+          "responsible": "Carlos Ruiz",
+          "notes": "Valor del Excel original. Datos académicos de ejemplo."
+        }
+      ]
+    },
+    {
+      "id": "KPI-19",
+      "name": "Tiempo Promedio de Entrega al Cliente",
+      "objectiveId": "OBJ-P1",
+      "perspective": "procesos",
+      "unit": "días",
+      "target": 3.0,
+      "current": 3.5,
+      "direction": "menor",
+      "owner": "María Torres",
+      "area": "Operaciones",
+      "frequency": "Anual",
+      "description": "Revisar cuellos de botella en preparación y despacho.",
+      "formula": "Meta / resultado × 100",
+      "sourceRow": 24,
+      "measurements": [
+        {
+          "id": "M-KPI-19-2025-12",
+          "period": "2025-12",
+          "date": "2025-12-31",
+          "value": 3.5,
+          "responsible": "María Torres",
+          "notes": "Valor del Excel original. Datos académicos de ejemplo."
+        }
+      ]
+    },
+    {
+      "id": "KPI-20",
+      "name": "Tasa de Defectos / Reclamos",
+      "objectiveId": "OBJ-P1",
+      "perspective": "procesos",
+      "unit": "%",
+      "target": 2.0,
+      "current": 2.8,
+      "direction": "menor",
+      "owner": "María Torres",
+      "area": "Operaciones",
+      "frequency": "Anual",
+      "description": "Aplicar controles de calidad en cada etapa.",
+      "formula": "Meta / resultado × 100",
+      "sourceRow": 25,
+      "measurements": [
+        {
+          "id": "M-KPI-20-2025-12",
+          "period": "2025-12",
+          "date": "2025-12-31",
+          "value": 2.8,
+          "responsible": "María Torres",
+          "notes": "Valor del Excel original. Datos académicos de ejemplo."
+        }
+      ]
+    },
+    {
+      "id": "KPI-21",
+      "name": "Productividad por Empleado",
+      "objectiveId": "OBJ-P1",
+      "perspective": "procesos",
+      "unit": "S/ MM",
+      "target": 0.25,
+      "current": 0.22,
+      "direction": "mayor",
+      "owner": "María Torres",
+      "area": "Operaciones",
+      "frequency": "Anual",
+      "description": "Automatizar tareas repetitivas del personal.",
+      "formula": "Resultado / meta × 100",
+      "sourceRow": 26,
+      "measurements": [
+        {
+          "id": "M-KPI-21-2025-12",
+          "period": "2025-12",
+          "date": "2025-12-31",
+          "value": 0.22,
+          "responsible": "María Torres",
+          "notes": "Valor del Excel original. Datos académicos de ejemplo."
+        }
+      ]
+    },
+    {
+      "id": "KPI-22",
+      "name": "N° Lanzamientos de Nuevos Productos",
+      "objectiveId": "OBJ-P2",
+      "perspective": "procesos",
+      "unit": "#",
+      "target": 4.0,
+      "current": 3.0,
+      "direction": "mayor",
+      "owner": "María Torres",
+      "area": "Operaciones",
+      "frequency": "Anual",
+      "description": "Priorizar el siguiente lanzamiento de producto.",
+      "formula": "Resultado / meta × 100",
+      "sourceRow": 27,
+      "measurements": [
+        {
+          "id": "M-KPI-22-2025-12",
+          "period": "2025-12",
+          "date": "2025-12-31",
+          "value": 3.0,
+          "responsible": "María Torres",
+          "notes": "Valor del Excel original. Datos académicos de ejemplo."
+        }
+      ]
+    },
+    {
+      "id": "KPI-23",
+      "name": "Time-to-Market (lanzamiento)",
+      "objectiveId": "OBJ-P2",
+      "perspective": "procesos",
+      "unit": "semanas",
+      "target": 12.0,
+      "current": 15.0,
+      "direction": "menor",
+      "owner": "María Torres",
+      "area": "Operaciones",
+      "frequency": "Anual",
+      "description": "Mejorar la planificación y coordinación del lanzamiento.",
+      "formula": "Meta / resultado × 100",
+      "sourceRow": 28,
+      "measurements": [
+        {
+          "id": "M-KPI-23-2025-12",
+          "period": "2025-12",
+          "date": "2025-12-31",
+          "value": 15.0,
+          "responsible": "María Torres",
+          "notes": "Valor del Excel original. Datos académicos de ejemplo."
+        }
+      ]
+    },
+    {
+      "id": "KPI-24",
+      "name": "% Ingresos de Productos < 2 años",
+      "objectiveId": "OBJ-P2",
+      "perspective": "procesos",
+      "unit": "%",
+      "target": 25.0,
+      "current": 18.0,
+      "direction": "mayor",
+      "owner": "María Torres",
+      "area": "Operaciones",
+      "frequency": "Anual",
+      "description": "Validar el mercado antes de desarrollar productos.",
+      "formula": "Resultado / meta × 100",
+      "sourceRow": 29,
+      "measurements": [
+        {
+          "id": "M-KPI-24-2025-12",
+          "period": "2025-12",
+          "date": "2025-12-31",
+          "value": 18.0,
+          "responsible": "María Torres",
+          "notes": "Valor del Excel original. Datos académicos de ejemplo."
+        }
+      ]
+    },
+    {
+      "id": "KPI-25",
+      "name": "On-Time Delivery de Proveedores (OTD)",
+      "objectiveId": "OBJ-P3",
+      "perspective": "procesos",
+      "unit": "%",
+      "target": 95.0,
+      "current": 92.0,
+      "direction": "mayor",
+      "owner": "María Torres",
+      "area": "Operaciones",
+      "frequency": "Anual",
+      "description": "Acordar niveles de servicio con proveedores críticos.",
+      "formula": "Resultado / meta × 100",
+      "sourceRow": 30,
+      "measurements": [
+        {
+          "id": "M-KPI-25-2025-12",
+          "period": "2025-12",
+          "date": "2025-12-31",
+          "value": 92.0,
+          "responsible": "María Torres",
+          "notes": "Valor del Excel original. Datos académicos de ejemplo."
+        }
+      ]
+    },
+    {
+      "id": "KPI-26",
+      "name": "N° Incidencias con Proveedores",
+      "objectiveId": "OBJ-P3",
+      "perspective": "procesos",
+      "unit": "#",
+      "target": 5.0,
+      "current": 8.0,
+      "direction": "menor",
+      "owner": "María Torres",
+      "area": "Operaciones",
+      "frequency": "Anual",
+      "description": "Evaluar mensualmente las incidencias de proveedores.",
+      "formula": "Meta / resultado × 100",
+      "sourceRow": 31,
+      "measurements": [
+        {
+          "id": "M-KPI-26-2025-12",
+          "period": "2025-12",
+          "date": "2025-12-31",
+          "value": 8.0,
+          "responsible": "María Torres",
+          "notes": "Valor del Excel original. Datos académicos de ejemplo."
+        }
+      ]
+    },
+    {
+      "id": "KPI-27",
+      "name": "Costo de Inventario sobre Ventas",
+      "objectiveId": "OBJ-P3",
+      "perspective": "procesos",
+      "unit": "%",
+      "target": 12.0,
+      "current": 14.5,
+      "direction": "menor",
+      "owner": "María Torres",
+      "area": "Operaciones",
+      "frequency": "Anual",
+      "description": "Reducir inventario inmovilizado y mejorar reposición.",
+      "formula": "Meta / resultado × 100",
+      "sourceRow": 32,
+      "measurements": [
+        {
+          "id": "M-KPI-27-2025-12",
+          "period": "2025-12",
+          "date": "2025-12-31",
+          "value": 14.5,
+          "responsible": "María Torres",
+          "notes": "Valor del Excel original. Datos académicos de ejemplo."
+        }
+      ]
+    },
+    {
+      "id": "KPI-28",
+      "name": "Horas de Capacitación por Empleado",
+      "objectiveId": "OBJ-A1",
+      "perspective": "aprendizaje",
+      "unit": "hrs",
+      "target": 40.0,
+      "current": 35.0,
+      "direction": "mayor",
+      "owner": "Rosa Medina",
+      "area": "Personas",
+      "frequency": "Anual",
+      "description": "Programar sesiones de capacitación adicionales.",
+      "formula": "Resultado / meta × 100",
+      "sourceRow": 34,
+      "measurements": [
+        {
+          "id": "M-KPI-28-2025-12",
+          "period": "2025-12",
+          "date": "2025-12-31",
+          "value": 35.0,
+          "responsible": "Rosa Medina",
+          "notes": "Valor del Excel original. Datos académicos de ejemplo."
+        }
+      ]
+    },
+    {
+      "id": "KPI-29",
+      "name": "% Empleados con Plan de Desarrollo",
+      "objectiveId": "OBJ-A1",
+      "perspective": "aprendizaje",
+      "unit": "%",
+      "target": 80.0,
+      "current": 72.0,
+      "direction": "mayor",
+      "owner": "Rosa Medina",
+      "area": "Personas",
+      "frequency": "Anual",
+      "description": "Completar los planes de desarrollo individuales.",
+      "formula": "Resultado / meta × 100",
+      "sourceRow": 35,
+      "measurements": [
+        {
+          "id": "M-KPI-29-2025-12",
+          "period": "2025-12",
+          "date": "2025-12-31",
+          "value": 72.0,
+          "responsible": "Rosa Medina",
+          "notes": "Valor del Excel original. Datos académicos de ejemplo."
+        }
+      ]
+    },
+    {
+      "id": "KPI-30",
+      "name": "Índice de Competencias Clave Cubiertas",
+      "objectiveId": "OBJ-A1",
+      "perspective": "aprendizaje",
+      "unit": "%",
+      "target": 85.0,
+      "current": 74.0,
+      "direction": "mayor",
+      "owner": "Rosa Medina",
+      "area": "Personas",
+      "frequency": "Anual",
+      "description": "Identificar y cerrar brechas de competencias por área.",
+      "formula": "Resultado / meta × 100",
+      "sourceRow": 36,
+      "measurements": [
+        {
+          "id": "M-KPI-30-2025-12",
+          "period": "2025-12",
+          "date": "2025-12-31",
+          "value": 74.0,
+          "responsible": "Rosa Medina",
+          "notes": "Valor del Excel original. Datos académicos de ejemplo."
+        }
+      ]
+    },
+    {
+      "id": "KPI-31",
+      "name": "Índice de Satisfacción del Empleado",
+      "objectiveId": "OBJ-A2",
+      "perspective": "aprendizaje",
+      "unit": "%",
+      "target": 75.0,
+      "current": 68.0,
+      "direction": "mayor",
+      "owner": "Rosa Medina",
+      "area": "Personas",
+      "frequency": "Anual",
+      "description": "Realizar encuestas de clima y ejecutar un plan de mejora.",
+      "formula": "Resultado / meta × 100",
+      "sourceRow": 37,
+      "measurements": [
+        {
+          "id": "M-KPI-31-2025-12",
+          "period": "2025-12",
+          "date": "2025-12-31",
+          "value": 68.0,
+          "responsible": "Rosa Medina",
+          "notes": "Valor del Excel original. Datos académicos de ejemplo."
+        }
+      ]
+    },
+    {
+      "id": "KPI-32",
+      "name": "Rotación de Personal (Turnover)",
+      "objectiveId": "OBJ-A2",
+      "perspective": "aprendizaje",
+      "unit": "%",
+      "target": 8.0,
+      "current": 10.0,
+      "direction": "menor",
+      "owner": "Rosa Medina",
+      "area": "Personas",
+      "frequency": "Anual",
+      "description": "Revisar compensación y oportunidades de crecimiento.",
+      "formula": "Meta / resultado × 100",
+      "sourceRow": 38,
+      "measurements": [
+        {
+          "id": "M-KPI-32-2025-12",
+          "period": "2025-12",
+          "date": "2025-12-31",
+          "value": 10.0,
+          "responsible": "Rosa Medina",
+          "notes": "Valor del Excel original. Datos académicos de ejemplo."
+        }
+      ]
+    },
+    {
+      "id": "KPI-33",
+      "name": "% Empleados con Evaluación Desempeño",
+      "objectiveId": "OBJ-A2",
+      "perspective": "aprendizaje",
+      "unit": "%",
+      "target": 95.0,
+      "current": 88.0,
+      "direction": "mayor",
+      "owner": "Rosa Medina",
+      "area": "Personas",
+      "frequency": "Anual",
+      "description": "Completar las evaluaciones de desempeño pendientes.",
+      "formula": "Resultado / meta × 100",
+      "sourceRow": 39,
+      "measurements": [
+        {
+          "id": "M-KPI-33-2025-12",
+          "period": "2025-12",
+          "date": "2025-12-31",
+          "value": 88.0,
+          "responsible": "Rosa Medina",
+          "notes": "Valor del Excel original. Datos académicos de ejemplo."
+        }
+      ]
+    },
+    {
+      "id": "KPI-34",
+      "name": "Proyectos de Mejora Continua Activos",
+      "objectiveId": "OBJ-A3",
+      "perspective": "aprendizaje",
+      "unit": "#",
+      "target": 6.0,
+      "current": 5.0,
+      "direction": "mayor",
+      "owner": "Rosa Medina",
+      "area": "Personas",
+      "frequency": "Anual",
+      "description": "Asignar equipos a los proyectos de mejora continua.",
+      "formula": "Resultado / meta × 100",
+      "sourceRow": 40,
+      "measurements": [
+        {
+          "id": "M-KPI-34-2025-12",
+          "period": "2025-12",
+          "date": "2025-12-31",
+          "value": 5.0,
+          "responsible": "Rosa Medina",
+          "notes": "Valor del Excel original. Datos académicos de ejemplo."
+        }
+      ]
+    },
+    {
+      "id": "KPI-35",
+      "name": "% Presupuesto I+D sobre Ingresos",
+      "objectiveId": "OBJ-A3",
+      "perspective": "aprendizaje",
+      "unit": "%",
+      "target": 5.0,
+      "current": 3.8,
+      "direction": "mayor",
+      "owner": "Rosa Medina",
+      "area": "Personas",
+      "frequency": "Anual",
+      "description": "Evaluar la asignación de presupuesto para investigación.",
+      "formula": "Resultado / meta × 100",
+      "sourceRow": 41,
+      "measurements": [
+        {
+          "id": "M-KPI-35-2025-12",
+          "period": "2025-12",
+          "date": "2025-12-31",
+          "value": 3.8,
+          "responsible": "Rosa Medina",
+          "notes": "Valor del Excel original. Datos académicos de ejemplo."
+        }
+      ]
+    },
+    {
+      "id": "KPI-36",
+      "name": "Ideas Implementadas de Empleados",
+      "objectiveId": "OBJ-A3",
+      "perspective": "aprendizaje",
+      "unit": "#",
+      "target": 24.0,
+      "current": 16.0,
+      "direction": "mayor",
+      "owner": "Rosa Medina",
+      "area": "Personas",
+      "frequency": "Anual",
+      "description": "Implementar y dar seguimiento a las ideas del personal.",
+      "formula": "Resultado / meta × 100",
+      "sourceRow": 42,
+      "measurements": [
+        {
+          "id": "M-KPI-36-2025-12",
+          "period": "2025-12",
+          "date": "2025-12-31",
+          "value": 16.0,
+          "responsible": "Rosa Medina",
+          "notes": "Valor del Excel original. Datos académicos de ejemplo."
+        }
+      ]
+    }
+  ],
+  "initiatives": [
+    {
+      "id": "INI-01",
+      "name": "Optimizar costos operativos",
+      "objectiveId": "OBJ-F1",
+      "kpiId": "KPI-01",
+      "owner": "Luis Quispe",
+      "area": "Finanzas",
+      "start": "2025-01-01",
+      "end": "2025-12-31",
+      "budget": 0,
+      "progress": 0,
+      "status": "Planificada",
+      "description": "Propuesta de mejora para seguimiento académico; avance y presupuesto pendientes de registrar."
+    },
+    {
+      "id": "INI-02",
+      "name": "Mejorar la atención posventa",
+      "objectiveId": "OBJ-C1",
+      "kpiId": "KPI-10",
+      "owner": "Carlos Ruiz",
+      "area": "Comercial",
+      "start": "2025-01-01",
+      "end": "2025-12-31",
+      "budget": 0,
+      "progress": 0,
+      "status": "Planificada",
+      "description": "Propuesta de mejora para seguimiento académico; avance y presupuesto pendientes de registrar."
+    },
+    {
+      "id": "INI-03",
+      "name": "Control de calidad y entregas",
+      "objectiveId": "OBJ-P1",
+      "kpiId": "KPI-19",
+      "owner": "María Torres",
+      "area": "Operaciones",
+      "start": "2025-01-01",
+      "end": "2025-12-31",
+      "budget": 0,
+      "progress": 0,
+      "status": "Planificada",
+      "description": "Propuesta de mejora para seguimiento académico; avance y presupuesto pendientes de registrar."
+    },
+    {
+      "id": "INI-04",
+      "name": "Programa de capacitación",
+      "objectiveId": "OBJ-A1",
+      "kpiId": "KPI-28",
+      "owner": "Rosa Medina",
+      "area": "Personas",
+      "start": "2025-01-01",
+      "end": "2025-12-31",
+      "budget": 0,
+      "progress": 0,
+      "status": "Planificada",
+      "description": "Propuesta de mejora para seguimiento académico; avance y presupuesto pendientes de registrar."
+    }
+  ]
+}
